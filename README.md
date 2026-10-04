@@ -44,7 +44,8 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 ### 🏆 Hackathon & Competition Track Record
 
 | Result | Event & Organizer | Project & Scope | Year |
-| :---: | :--- | :--- | :---: |\n| 🥇 **1st Place** | **TUA Astro Hackathon** (Turkish Space Agency) | [Sol Cadente Rover (Ahien-14)](https://github.com/merwanted/sol-cadente-rover) — Autonomous VLM Navigation & Fail-Safe Telemetry | 2026 |
+| :---: | :--- | :--- | :---: |
+| 🥇 **1st Place** | **TUA Astro Hackathon** (Turkish Space Agency) | [Sol Cadente Rover (Ahien-14)](https://github.com/merwanted/sol-cadente-rover) — Autonomous VLM Navigation & Fail-Safe Telemetry | 2026 |
 | 🥇 **1st Place** | **GAÜN & TMMOB Hackathon** | [GreenLoop](https://github.com/merwanted/greenloop) — Industrial Symbiosis & Carbon Tracking Platform | 2026 |
 | 🏅 **4th Place** | **DataMedX Health Hackathon 2** (İstinye Univ.) | [AHIEN AI](https://github.com/merwanted/ahien-ai) — Clinical Oncology RAG Decision Support | 2026 |
 | 🪐 **Finalist** | **NASA Space Apps Challenge** | Space Data Processing & Interactive Exploration Platform | 2025 |
