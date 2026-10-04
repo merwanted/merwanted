@@ -37,7 +37,7 @@ Location: Gaziantep & Kahramanmaraş, Turkey
 Motto: "From embedded hardware to localized AI."
 ```
 
-I build end-to-end software and autonomous hardware that solve real-world problems under resource constraints. Rather than purely theoretical models, I focus on systems that run in production: from low-level Linux optimizations to vector-search clinical decision assistants.
+I build end-to-end software and autonomous hardware that solve real-world problems under resource constraints. Rather than purely theoretical models, I focus on systems that run in production: from low-level Linux optimizations to vector-search clinical decision assistants and autonomous rovers.
 
 ---
 
@@ -45,12 +45,12 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 
 | Result | Event & Organizer | Project & Scope | Year |
 | :---: | :--- | :--- | :---: |
-| 🥇 **1st Place** | **TUA Astro Hackathon** (Turkish Space Agency) | Planetary Rover Hardware, Sensors & Telemetry System | 2026 |
-| 🥇 **1st Place** | **GAÜN & TMMOB Hackathon** | GreenLoop — Industrial Symbiosis & Carbon Tracking Platform | 2026 |
-| 🏅 **4th Place** | **DataMedX Health Hackathon 2** (İstinye Univ.) | AHIEN AI — Clinical Oncology RAG Decision Support | 2026 |
+| 🥇 **1st Place** | **TUA Astro Hackathon** (Turkish Space Agency) | [Sol Cadente Rover (Ahien-14)](https://github.com/merwanted/sol-cadente-rover) — Autonomous VLM Navigation & Fail-Safe Telemetry | 2026 |
+| 🥇 **1st Place** | **GAÜN & TMMOB Hackathon** | [GreenLoop](https://github.com/merwanted/greenloop) — Industrial Symbiosis & Carbon Tracking Platform | 2026 |
+| 🏅 **4th Place** | **DataMedX Health Hackathon 2** (İstinye Univ.) | [AHIEN AI](https://github.com/merwanted/ahien-ai) — Clinical Oncology RAG Decision Support | 2026 |
 | 🪐 **Finalist** | **NASA Space Apps Challenge** | Space Data Processing & Interactive Exploration Platform | 2025 |
 | 🪐 **Finalist** | **NASA Space Apps Challenge** | Exoplanet Transit Analysis & Data Modeling | 2024 |
-| 🤖 **Project** | **TÜBİTAK Robotics** | Biomimetic Robotic Hand & Telemetry Glove Prototype | 2024 |
+| 🤖 **Project** | **TÜBİTAK Robotics** | [Biomimetic Robot Hand](https://github.com/merwanted/biomimetic-robot-hand) — Telemetry Glove & 5-Finger Tendon Mechanism | 2024 |
 
 ---
 
@@ -60,10 +60,11 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **AI & Vector Pipelines** | `Python` `FastAPI` `ChromaDB` `BGE-M3 Embeddings` `Ollama` `Local LLMs` |
-| **Vision & Simulation** | `OpenCV` `MediaPipe (468-Mesh)` `ModernGL` `GLSL Shaders` |
-| **Web & APIs** | `JavaScript` `PHP` `RESTful APIs` `SQLite / PostgreSQL` `HTML5 / CSS3` |
-| **Systems & Hardware** | `Linux (Arch / CachyOS)` `Bash` `Arduino (C/C++)` `PID Loops` `Sensors` |
+| **Autonomous & Robotics** | `Arduino (C/C++)` `Raspberry Pi` `L298N Motor Driver` `Dead-Reckoning` `Sensors (HC-SR04, DHT22)` |
+| **AI & Multimodal Systems** | `Gemma 3 (12B VLM)` `Python` `FastAPI` `ChromaDB` `BGE-M3 Embeddings` `Ollama` `Local LLMs` |
+| **Vision & Simulation** | `OpenCV` `MediaPipe (468-Mesh)` `ModernGL` `Heightmap Simulation` |
+| **Web & APIs** | `JavaScript` `PHP` `Flask` `RESTful APIs` `SQLite / PostgreSQL` `HTML5 / CSS3` |
+| **Systems & Infrastructure** | `Linux (Arch / CachyOS)` `Bash` `Serial UART` `Network Telemetry` |
 
 </div>
 
@@ -71,10 +72,10 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 
 ### 🚀 Featured Repositories & Case Studies
 
+- 🪐 **[Sol Cadente Rover (Ahien-14)](https://github.com/merwanted/sol-cadente-rover)** — Autonomous planetary rover prototype with Gemma 3 multimodal navigation, ground control telemetry, and fail-safe backtracking *(1st place TUA Astro Hackathon)*.
 - 🌿 **[GreenLoop](https://github.com/merwanted/greenloop)** — Circular economy & industrial symbiosis web platform *(1st place GAÜN & TMMOB Hackathon)*.
 - 🧬 **[AHIEN AI](https://github.com/merwanted/ahien-ai)** — Localized clinical oncology RAG assistant with hallucination guards *(4th place DataMedX Hackathon 2)*.
 - 🖐️ **[Biomimetic Robot Hand](https://github.com/merwanted/biomimetic-robot-hand)** — 5-channel flex sensor telemetry glove and tendon-driven robotic hand *(TÜBİTAK Robotics Exhibition)*.
-- 🚀 **TUA Planetary Rover** — Full-stack embedded rover system tested on rough terrain *(1st place TUA Astro Hackathon)*.
 
 ---
 
