@@ -44,8 +44,7 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 ### 🏆 Hackathon & Competition Track Record
 
 | Result | Event & Organizer | Project & Scope | Year |
-| :---: | :--- | :--- | :---: |
-| 🥇 **1st Place** | **TUA Astro Hackathon** (Turkish Space Agency) | [Sol Cadente Rover (Ahien-14)](https://github.com/merwanted/sol-cadente-rover) — Autonomous VLM Navigation & Fail-Safe Telemetry | 2026 |
+| :---: | :--- | :--- | :---: |\n| 🥇 **1st Place** | **TUA Astro Hackathon** (Turkish Space Agency) | [Sol Cadente Rover (Ahien-14)](https://github.com/merwanted/sol-cadente-rover) — Autonomous VLM Navigation & Fail-Safe Telemetry | 2026 |
 | 🥇 **1st Place** | **GAÜN & TMMOB Hackathon** | [GreenLoop](https://github.com/merwanted/greenloop) — Industrial Symbiosis & Carbon Tracking Platform | 2026 |
 | 🏅 **4th Place** | **DataMedX Health Hackathon 2** (İstinye Univ.) | [AHIEN AI](https://github.com/merwanted/ahien-ai) — Clinical Oncology RAG Decision Support | 2026 |
 | 🪐 **Finalist** | **NASA Space Apps Challenge** | Space Data Processing & Interactive Exploration Platform | 2025 |
@@ -81,16 +80,11 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merwanted&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merwanted&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merwanted&theme=tokyonight&hide_border=true&stroke=00F5D4&background=0d1117" width="97%"/>
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=merwanted&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues" alt="Mert's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merwanted&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=c9d1d9&bg_color=0d1117&hide=html,css" alt="Most Used Languages" />
+</p>
 
 ---
 
