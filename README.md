@@ -50,7 +50,7 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 | 🏅 **4th Place** | **DataMedX Health Hackathon 2** (İstinye Univ.) | AHIEN AI — Clinical Oncology RAG Decision Support | 2026 |
 | 🪐 **Finalist** | **NASA Space Apps Challenge** | Space Data Processing & Interactive Exploration Platform | 2025 |
 | 🪐 **Finalist** | **NASA Space Apps Challenge** | Exoplanet Transit Analysis & Data Modeling | 2024 |
-| 🤖 **Project** | **TÜBİTAK Robotics** | Biomimetic Robotic Hand & PID Self-Balancing Robot | 2024 |
+| 🤖 **Project** | **TÜBİTAK Robotics** | Biomimetic Robotic Hand & Telemetry Glove Prototype | 2024 |
 
 ---
 
@@ -66,6 +66,15 @@ I build end-to-end software and autonomous hardware that solve real-world proble
 | **Systems & Hardware** | `Linux (Arch / CachyOS)` `Bash` `Arduino (C/C++)` `PID Loops` `Sensors` |
 
 </div>
+
+---
+
+### 🚀 Featured Repositories & Case Studies
+
+- 🌿 **[GreenLoop](https://github.com/merwanted/greenloop)** — Circular economy & industrial symbiosis web platform *(1st place GAÜN & TMMOB Hackathon)*.
+- 🧬 **[AHIEN AI](https://github.com/merwanted/ahien-ai)** — Localized clinical oncology RAG assistant with hallucination guards *(4th place DataMedX Hackathon 2)*.
+- 🖐️ **[Biomimetic Robot Hand](https://github.com/merwanted/biomimetic-robot-hand)** — 5-channel flex sensor telemetry glove and tendon-driven robotic hand *(TÜBİTAK Robotics Exhibition)*.
+- 🚀 **TUA Planetary Rover** — Full-stack embedded rover system tested on rough terrain *(1st place TUA Astro Hackathon)*.
 
 ---
 
